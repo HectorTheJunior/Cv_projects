@@ -1,3 +1,4 @@
+from classes import RPS
 
 rps = RPS()
 
